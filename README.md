@@ -6,4 +6,4 @@ For the person who has everything, including a folder full of files with spaces 
 
 - BAM!!! WHAT??? Your files with spaces are now renamed with underscores instead. 
 
-*Note*: Your folder name should definitely not have spaces in it either!!!
+*Note*: Your folder name should definitely not have spaces in it either if you want this script to work
