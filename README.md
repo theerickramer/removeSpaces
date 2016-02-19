@@ -5,3 +5,5 @@ For the person who has everything, including a folder full of files with spaces 
 - now type ./removeSpaces.py PATH/TO/DIRECTORY
 
 - BAM!!! WHAT??? Your files with spaces are now renamed with underscores instead. 
+
+*Note*: Your folder name should definitely not have spaces in it either!!!
