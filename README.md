@@ -7,3 +7,5 @@ now type ./renameFiles.py PATH/TO/DIRECTORY STRING-TO-BE-REPLACED(optional) REPL
 \* *replaces spaces with \_'s by default if optional arguments are not supplied*
 
 BAM!!! WHAT??? Your files are renamed
+
+*Note*: Your folder name should definitely not have spaces in it either if you want this script to work
