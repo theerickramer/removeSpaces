@@ -24,4 +24,4 @@ else:
 
 
 for file_name in file_list:
-	subprocess.call("mv " + folder + "/" + re.sub("\s", "\\ ", file_name) + " " + folder + "/" + re.sub(replace, replacer, file_name.lower()), shell=True)
+	subprocess.call("mv " + folder + "/" + re.sub("\s", "\\ ", file_name) + " " + folder + "/" + re.sub(replace, replacer, file_name), shell=True)
